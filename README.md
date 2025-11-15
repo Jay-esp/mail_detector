@@ -17,6 +17,7 @@ One of the challenges was power, i did have a socarex pipe nearby that only had 
 The version published here is a new design based on a ESP32-CAM and can take a picture of the mail, the same ultrasonic sensor is used, i changed the reed switches to a sealed version.
 
 As usuall i use Arduino 1 IDE in portable mode to avoid the many issues with breaking changes in libraries.
+I use the dedicated programming board they sell for the ESP32-CAM module since it has no USB-serial bridge on it.
 
 Standard disclaimer: it works for me, i have no responsibility over what you make, use as inspiration or idea for your own project.
 
